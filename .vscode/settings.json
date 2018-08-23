@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "restructuredtext.builtDocumentationPath" : "${workspaceRoot}/docs/build/html",
+    "restructuredtext.confPath"               : "${workspaceRoot}/docs/source",
+    "restructuredtext.updateOnTextChanged"    : "true",
+    "restructuredtext.updateDelay"            : 300,
+    "restructuredtext.sphinxBuildPath"        : "sphinx-build"
+}
